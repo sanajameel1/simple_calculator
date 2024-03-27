@@ -1,0 +1,19 @@
+{
+  "name": "s4ra8-simple-calculator",
+  "version": "1.0.2",
+  "description": "A simple calculator with Typescript, Node.js and inqurer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SANA JAMEEL",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
